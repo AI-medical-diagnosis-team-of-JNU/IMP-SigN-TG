@@ -1,1 +1,1 @@
-This repository holds the PyTorch code for the paper: Interpretable Imaging Phenotypes Derived from Tumor Subregion Graph Characterize Intra-tumor Heterogeneity in Breast Cancer
+This repository holds the PyTorch code for the paper: AI-Powered Interpretable Imaging Phenotypes Noninvasively Characterize Tumor Microenvironment Associated with Diverse Molecular Signatures and Survival in Breast Cancer
